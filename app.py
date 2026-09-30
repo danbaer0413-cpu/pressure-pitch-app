@@ -95,7 +95,6 @@ if search_query:
 
       # Blend recent 10 appearance lean if toggled on in sidebar
       if include_recent_lean:
-        # 70% season-long baseline + 30% recent 10-game form
         active_pp = round((adjusted_pp * 0.7) + (prior_10_pp * 0.3), 3)
       else:
         active_pp = adjusted_pp
@@ -143,7 +142,6 @@ if search_query:
           "Prior 10 Outings PP",
           f"{prior_10_pp:.3f}",
           delta=f"{trend_delta:+.3f} Trend",
-          delta_inverse=True,
           help="Rolling pressure score over last 10 appearances",
       )
       res3.metric(
