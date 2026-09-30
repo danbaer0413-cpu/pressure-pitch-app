@@ -12,10 +12,10 @@ st.set_page_config(
     layout="centered",
 )
 
-st.title("⚾ Universal MLB Pressure Pitch & pERA Search Engine")
+st.title("⚾ Universal MLB Pressure Pitch & Trend Engine")
 st.markdown(
-    "Type any pitcher's name in the search bar below to evaluate their RISP"
-    " run vulnerability and pressure tiers."
+    "Type any pitcher's name below to analyze their sample-adjusted RISP"
+    " vulnerability, recent 10-appearance trend lean, and pressure tiers."
 )
 
 
@@ -27,14 +27,23 @@ def load_master():
 
 df_master = load_master()
 
-# 4. Sidebar Postseason Skew Toggle
+# 4. Sidebar Postseason Skew & Trend Adjustments
 st.sidebar.markdown("### ⚙️ Model Adjustments")
 apply_postseason_skew = st.sidebar.toggle(
     "🔥 Apply Postseason Leverage Skew",
     value=True,
     help=(
-        "Multiplies base pressure by 1.05x for starters and 1.10x for relievers"
-        " to account for October game stakes."
+        "Multiplies adjusted pressure by 1.05x for starters and 1.10x for"
+        " relievers to account for October game stakes."
+    ),
+)
+
+include_recent_lean = st.sidebar.toggle(
+    "📈 Weight Prior 10 Appearance Trend",
+    value=True,
+    help=(
+        "Blends season-long baseline with their recent 10-game hot/cold form"
+        " trend."
     ),
 )
 
@@ -76,6 +85,21 @@ if search_query:
       st.success(f"Data successfully retrieved via {data['Source']}")
       st.divider()
 
+      # Fetch detailed row data including Bayesian shrinkage and Prior 10 stats
+      match_row = df_master[
+          df_master["Pitcher"].str.lower() == target_name.strip().lower()
+      ].iloc[0]
+      adjusted_pp = float(match_row["Adjusted_Pressure_Pitch"])
+      prior_10_pp = float(match_row["Prior_10_PP"])
+      trend_delta = float(match_row["Trend_Delta"])
+
+      # Blend recent 10 appearance lean if toggled on in sidebar
+      if include_recent_lean:
+        # 70% season-long baseline + 30% recent 10-game form
+        active_pp = round((adjusted_pp * 0.7) + (prior_10_pp * 0.3), 3)
+      else:
+        active_pp = adjusted_pp
+
       # Top-Level Details
       col1, col2, col3 = st.columns(3)
       col1.metric("Team", data["Team"])
@@ -92,13 +116,11 @@ if search_query:
       st.divider()
 
       # Calculations & Postseason Skew
-      base_pp = data["Base_PP"]
       multiplier = 1.05 if "Starter" in data["Role"] else 1.10
-      postseason_ppp = round(base_pp * multiplier, 3)
+      postseason_ppp = round(active_pp * multiplier, 3)
+      eval_score = postseason_ppp if apply_postseason_skew else active_pp
 
-      # Determine evaluation score & badge tier
-      eval_score = postseason_ppp if apply_postseason_skew else base_pp
-
+      # Determine color-coded badge tier
       if eval_score < 0.350:
         tier_label, badge_color, text_color = "ELITE", "#FFD700", "#594500"  # Gold
       elif eval_score < 0.400:
@@ -108,26 +130,28 @@ if search_query:
       else:
         tier_label, badge_color, text_color = "BAD", "#e74c3c", "#ffffff"  # Red
 
-      # Display Pressure Index Results & Color Badge
-      st.subheader("🔥 Pressure Index Results")
-      res1, res2 = st.columns(2)
+      # Display Pressure Index Results & Trend Lean
+      st.subheader("🔥 Pressure Index & Recent Trend")
+      res1, res2, res3 = st.columns(3)
 
-      if apply_postseason_skew:
-        res1.metric("Base Pressure Pitch (PP)", f"{base_pp:.3f}")
-        res2.metric(
-            "Postseason Skewed PPP",
-            f"{postseason_ppp:.3f}",
-            delta=f"+{round((postseason_ppp - base_pp), 3)} Oct Skew",
-        )
-      else:
-        res1.metric("Base Pressure Pitch (PP)", f"{base_pp:.3f}")
-        res2.metric(
-            "Postseason Skewed PPP",
-            "Disabled",
-            help="Toggle sidebar to enable",
-        )
+      res1.metric(
+          "Active Pressure Pitch",
+          f"{active_pp:.3f}",
+          help="Blends season baseline with recent form",
+      )
+      res2.metric(
+          "Prior 10 Outings PP",
+          f"{prior_10_pp:.3f}",
+          delta=f"{trend_delta:+.3f} Trend",
+          delta_inverse=True,
+          help="Rolling pressure score over last 10 appearances",
+      )
+      res3.metric(
+          "Postseason Skewed PPP",
+          f"{postseason_ppp:.3f}" if apply_postseason_skew else "Disabled",
+      )
 
-      # Render Custom Color-Coded Tier Badge in Streamlit
+      # Render Custom Color-Coded Tier Badge
       st.markdown(
           f"""
             <div style="padding: 15px; border-radius: 10px; background-color: {badge_color}; text-align: center; margin-top: 15px; margin-bottom: 15px;">
@@ -146,8 +170,8 @@ if search_query:
           f"{data['Pressure_Adjusted_ERA']:.2f}",
           delta=f"{round(data['Pressure_Adjusted_ERA'] - data['Standard_ERA'], 2)} Variance",
           help=(
-              "Blends standard ERA with high-leverage RISP vulnerability. Lower"
-              " pERA means lockdown pressure control."
+              "Blends standard ERA with sample and trend-adjusted high-leverage"
+              " RISP vulnerability."
           ),
       )
 
