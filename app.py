@@ -119,12 +119,12 @@ if search_query:
       postseason_ppp = round(active_pp * multiplier, 3)
       eval_score = postseason_ppp if apply_postseason_skew else active_pp
 
-      # Determine color-coded badge tier
-      if eval_score < 0.350:
+      # Determine color-coded badge tier (Scaled for Shrunken Distribution)
+      if eval_score < 0.370:
         tier_label, badge_color, text_color = "ELITE", "#FFD700", "#594500"  # Gold
-      elif eval_score < 0.400:
+      elif eval_score < 0.405:
         tier_label, badge_color, text_color = "GREAT", "#2ecc71", "#ffffff"  # Green
-      elif eval_score < 0.450:
+      elif eval_score < 0.440:
         tier_label, badge_color, text_color = "SHAKY", "#f1c40f", "#594500"  # Yellow
       else:
         tier_label, badge_color, text_color = "BAD", "#e74c3c", "#ffffff"  # Red
@@ -174,17 +174,17 @@ if search_query:
       )
 
       # Dynamic Analysis Callout
-      if eval_score < 0.350:
+      if eval_score < 0.370:
         st.success(
             "**Profile:** Lockdown elite pressure management. Minimizes walks"
             " and suppresses run conversion under heavy traffic."
         )
-      elif eval_score < 0.400:
+      elif eval_score < 0.405:
         st.info(
             "**Profile:** Great performance. Consistently suppresses runs and"
             " manages leverage well."
         )
-      elif eval_score < 0.450:
+      elif eval_score < 0.440:
         st.warning(
             "**Profile:** Shaky reliability. Prone to elevated traffic stress"
             " and occasional run conversion."
