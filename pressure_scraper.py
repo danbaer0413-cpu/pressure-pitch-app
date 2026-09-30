@@ -3,21 +3,16 @@ import requests
 
 
 class BaseballReferenceScraper:
-  """Scraper package for fetching situational pitching splits,
-
-  Standard ERA, and Pressure-Adjusted ERA (pERA) from the database.
-  """
 
   def __init__(self):
     self.headers = {
         "User-Agent": (
-            "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,"
-            " like Gecko) Chrome/120.0.0.0 Safari/537.36"
+            "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            " (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         )
     }
 
   def get_pitcher_risp_stats(self, player_identifier):
-    """Fetches pitcher situational splits, baseline ERA, and pERA."""
     try:
       df_master = pd.read_csv("all_mlb_rosters_2026.csv")
 
