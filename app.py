@@ -7,14 +7,17 @@ br_scraper = BaseballReferenceScraper()
 
 # 2. Page Configuration
 st.set_page_config(
-    page_title="MLB Pressure Pitch Calculator", page_icon="⚾", layout="centered"
+    page_title="Universal MLB Pressure Pitch Calculator",
+    page_icon="⚾",
+    layout="centered",
 )
 
-st.title("⚾ Universal MLB Pressure Pitch Search Engine")
+st.title("⚾ Universal MLB Pressure Pitch & pERA Search Engine")
 st.markdown(
-    "Search **any active MLB pitcher** to evaluate their RISP run vulnerability"
-    " via Baseball-Reference data."
+    "Type any pitcher's name in the search bar below to evaluate their RISP"
+    " run vulnerability and pressure-adjusted ERA."
 )
+
 
 # 3. Load Master Database for Auto-Suggestions
 @st.cache_data
@@ -29,12 +32,16 @@ st.sidebar.markdown("### ⚙️ Model Adjustments")
 apply_postseason_skew = st.sidebar.toggle(
     "🔥 Apply Postseason Leverage Skew",
     value=True,
-    help="Multiplies base pressure for October game stakes.",
+    help=(
+        "Multiplies base pressure by 1.05x for starters and 1.10x for relievers"
+        " to account for October game stakes."
+    ),
 )
 
 # 5. Free-Text Search Input
 search_query = st.text_input(
     "🔍 Search Pitcher Name:",
+    value="",
     placeholder="Type name (e.g., Gerrit Cole, Paul Skenes, Tarik Skubal)...",
 )
 
@@ -46,9 +53,12 @@ if search_query:
   ]
 
   if matches.empty:
-    st.warning(f"❌ No pitchers found matching '{search_query}'.")
+    st.warning(
+        f"❌ No pitchers found matching '{search_query}'. Check spelling or"
+        " try another name."
+    )
   else:
-    # If multiple matches, let the user select the exact one
+    # If multiple matches, let the user select the exact one from a dropdown
     if len(matches) > 1:
       selected_idx = st.selectbox(
           "Multiple matches found. Select correct pitcher:",
@@ -102,31 +112,44 @@ if search_query:
       else:
         res1.metric("Base Pressure Pitch (PP)", f"{base_pp:.3f}")
         res2.metric(
-            "Postseason Skewed PPP", "Disabled", help="Toggle sidebar to enable"
+            "Postseason Skewed PPP",
+            "Disabled",
+            help="Toggle sidebar to enable",
         )
 
-# Add this section into your app.py results display block:
-st.subheader("⚾ Run Prevention & pERA Context")
-col_era1, col_era2 = st.columns(2)
-col_era1.metric("Standard Baseline ERA", f"{data['Standard_ERA']:.2f}")
-col_era2.metric(
-    "Pressure-Adjusted ERA (pERA)",
-    f"{data['Pressure_Adjusted_ERA']:.2f}",
-    delta=f"{round(data['Pressure_Adjusted_ERA'] - data['Standard_ERA'], 2)} pERA Variance",
-    delta_inverse=True,  # Lower pERA is better
-)
+      # Run Prevention & pERA Context
+      st.markdown("### 📉 Run Prevention & pERA Context")
+      col_era1, col_era2 = st.columns(2)
+      col_era1.metric("Standard Baseline ERA", f"{data['Standard_ERA']:.2f}")
+      col_era2.metric(
+          "Pressure-Adjusted ERA (pERA)",
+          f"{data['Pressure_Adjusted_ERA']:.2f}",
+          delta=f"{round(data['Pressure_Adjusted_ERA'] - data['Standard_ERA'], 2)} Variance",
+          help=(
+              "Blends standard ERA with high-leverage RISP vulnerability. Lower"
+              " pERA means lockdown pressure control."
+          ),
+      )
 
-# Display Run Prevention & pERA Context
-st.markdown("### 📉 Run Prevention & pERA Context")
-col_era1, col_era2 = st.columns(2)
-col_era1.metric("Standard Baseline ERA", f"{data['Standard_ERA']:.2f}")
-col_era2.metric(
-    "Pressure-Adjusted ERA (pERA)",
-    f"{data['Pressure_Adjusted_ERA']:.2f}",
-    delta=f"{round(data['Pressure_Adjusted_ERA'] - data['Standard_ERA'], 2)} pERA Variance",
-    delta_inverse=True,  # Lower pERA is better
-    help=(
-        "Blends standard ERA with high-leverage RISP vulnerability. Lower pERA"
-        " means lockdown pressure control."
-    ),
-)
+      # Dynamic Analysis Callout
+      final_score_to_evaluate = postseason_ppp if apply_postseason_skew else base_pp
+      if final_score_to_evaluate < 0.380:
+        st.success(
+            "**Profile:** Elite pressure management. Minimizes walks and"
+            " suppresses run conversion under heavy traffic."
+        )
+      elif final_score_to_evaluate < 0.450:
+        st.info(
+            "**Profile:** Stable reliability. Performs consistently under"
+            " standard leverage conditions."
+        )
+      else:
+        st.warning(
+            "**Profile:** High vulnerability. Prone to spike innings and run"
+            " conversion when traffic builds up."
+        )
+else:
+  st.info(
+      "👆 Type any pitcher's name in the search bar above to begin exploring"
+      " stats."
+  )
