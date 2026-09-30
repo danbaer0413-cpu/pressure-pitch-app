@@ -104,3 +104,29 @@ if search_query:
         res2.metric(
             "Postseason Skewed PPP", "Disabled", help="Toggle sidebar to enable"
         )
+
+# Add this section into your app.py results display block:
+st.subheader("⚾ Run Prevention & pERA Context")
+col_era1, col_era2 = st.columns(2)
+col_era1.metric("Standard Baseline ERA", f"{data['Standard_ERA']:.2f}")
+col_era2.metric(
+    "Pressure-Adjusted ERA (pERA)",
+    f"{data['Pressure_Adjusted_ERA']:.2f}",
+    delta=f"{round(data['Pressure_Adjusted_ERA'] - data['Standard_ERA'], 2)} pERA Variance",
+    delta_inverse=True,  # Lower pERA is better
+)
+
+# Display Run Prevention & pERA Context
+st.markdown("### 📉 Run Prevention & pERA Context")
+col_era1, col_era2 = st.columns(2)
+col_era1.metric("Standard Baseline ERA", f"{data['Standard_ERA']:.2f}")
+col_era2.metric(
+    "Pressure-Adjusted ERA (pERA)",
+    f"{data['Pressure_Adjusted_ERA']:.2f}",
+    delta=f"{round(data['Pressure_Adjusted_ERA'] - data['Standard_ERA'], 2)} pERA Variance",
+    delta_inverse=True,  # Lower pERA is better
+    help=(
+        "Blends standard ERA with high-leverage RISP vulnerability. Lower pERA"
+        " means lockdown pressure control."
+    ),
+)

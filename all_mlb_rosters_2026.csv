@@ -1,361 +1,361 @@
-Team,Pitcher,Role,PA_RISP,H_RISP,BB_RISP,R_RISP,Pressure_Pitch
-New York Yankees,Gerrit Cole,Starter,121,33,15,16,0.513
-New York Yankees,Max Fried,Starter,93,22,6,11,0.408
-New York Yankees,Carlos Rodón,Starter,99,19,8,8,0.336
-New York Yankees,Luis Gil,Starter,127,29,13,13,0.416
-New York Yankees,Will Warren,Starter,128,28,9,16,0.411
-New York Yankees,Cam Schlittler,Starter,84,18,11,7,0.406
-New York Yankees,David Bednar,Reliever,32,8,3,3,0.409
-New York Yankees,Luke Weaver,Reliever,47,12,6,6,0.498
-New York Yankees,John Schreiber,Reliever,38,6,3,2,0.268
-New York Yankees,Alec Gamboa,Reliever,36,8,4,3,0.392
-New York Yankees,Tim Hill,Reliever,46,9,5,4,0.376
-New York Yankees,Caleb Ferguson,Reliever,35,7,4,2,0.34
-Boston Red Sox,Ranger Suárez,Starter,87,22,12,12,0.522
-Boston Red Sox,Brayan Bello,Starter,83,20,7,10,0.434
-Boston Red Sox,Jake Bennett,Starter,131,27,13,12,0.381
-Boston Red Sox,Sonny Gray,Starter,122,29,17,14,0.478
-Boston Red Sox,Patrick Sandoval,Starter,110,23,9,9,0.351
-Boston Red Sox,Payton Tolle,Starter,78,20,6,8,0.41
-Boston Red Sox,Aroldis Chapman,Reliever,40,7,5,3,0.36
-Boston Red Sox,Wyatt Olds,Reliever,34,9,4,5,0.524
-Boston Red Sox,Greg Weissert,Reliever,38,9,3,3,0.363
-Boston Red Sox,Garrett Whitlock,Reliever,52,12,6,6,0.45
-Boston Red Sox,Raymond Burgos,Reliever,51,13,5,5,0.424
-Boston Red Sox,Erik Miller,Reliever,43,11,5,4,0.435
-Los Angeles Dodgers,Yoshinobu Yamamoto,Starter,83,19,9,9,0.431
-Los Angeles Dodgers,Tyler Glasnow,Starter,111,24,9,13,0.408
-Los Angeles Dodgers,Shohei Ohtani,Starter,121,28,15,11,0.422
-Los Angeles Dodgers,Bobby Miller,Starter,84,21,7,8,0.401
-Los Angeles Dodgers,Gavin Stone,Starter,128,31,17,15,0.478
-Los Angeles Dodgers,Justin Wrobleski,Starter,131,31,18,16,0.486
-Los Angeles Dodgers,Evan Phillips,Reliever,49,13,5,7,0.502
-Los Angeles Dodgers,Blake Treinen,Reliever,57,12,8,5,0.419
-Los Angeles Dodgers,Alex Vesia,Reliever,56,12,7,6,0.436
-Los Angeles Dodgers,Daniel Hudson,Reliever,35,8,3,3,0.374
-Los Angeles Dodgers,Ryan Brasier,Reliever,53,14,5,6,0.449
-Los Angeles Dodgers,Joe Kelly,Reliever,41,8,4,3,0.344
-Houston Astros,Framber Valdez,Starter,125,22,14,10,0.355
-Houston Astros,Hunter Brown,Starter,123,22,12,11,0.357
-Houston Astros,Cristian Javier,Starter,71,16,7,7,0.404
-Houston Astros,Ronel Blanco,Starter,137,25,13,11,0.343
-Houston Astros,J.P. France,Starter,107,23,12,11,0.417
-Houston Astros,Spencer Arrighetti,Starter,80,20,10,8,0.45
-Houston Astros,Josh Hader,Reliever,35,8,4,3,0.403
-Houston Astros,Ryan Pressly,Reliever,48,12,6,5,0.456
-Houston Astros,Bryan Abreu,Reliever,36,7,4,3,0.372
-Houston Astros,Rafael Montero,Reliever,47,12,5,6,0.477
-Houston Astros,Kendall Graveman,Reliever,52,12,6,5,0.421
-Houston Astros,Seth Martinez,Reliever,45,11,5,5,0.449
-Atlanta Braves,Chris Sale,Starter,71,19,10,9,0.518
-Atlanta Braves,Spencer Strider,Starter,101,24,9,11,0.419
-Atlanta Braves,Reynaldo López,Starter,117,30,16,14,0.496
-Atlanta Braves,Max Fried (ATL),Starter,102,24,7,10,0.38
-Atlanta Braves,AJ Smith-Shawver,Starter,107,26,12,12,0.45
-Atlanta Braves,Ian Anderson,Starter,94,16,7,7,0.305
-Atlanta Braves,Raisel Iglesias,Reliever,64,15,5,7,0.406
-Atlanta Braves,A.J. Minter,Reliever,62,14,5,6,0.384
-Atlanta Braves,Pierce Johnson,Reliever,37,9,4,4,0.441
-Atlanta Braves,Joe Jiménez,Reliever,41,9,4,4,0.398
-Atlanta Braves,Tyler Matzek,Reliever,59,16,5,8,0.478
-Atlanta Braves,Dylan Lee,Reliever,56,12,5,6,0.4
-Philadelphia Phillies,Zack Wheeler,Starter,133,35,11,17,0.459
-Philadelphia Phillies,Aaron Nola,Starter,73,13,8,5,0.337
-Philadelphia Phillies,Cristopher Sánchez,Starter,99,27,14,12,0.514
-Philadelphia Phillies,Taijuan Walker,Starter,106,28,11,16,0.515
-Philadelphia Phillies,Jesús Luzardo,Starter,129,34,12,15,0.452
-Philadelphia Phillies,Mick Abel,Starter,102,21,8,10,0.37
-Philadelphia Phillies,José Alvarado,Reliever,60,15,8,6,0.458
-Philadelphia Phillies,Jeff Hoffman,Reliever,61,15,6,6,0.418
-Philadelphia Phillies,Matt Strahm,Reliever,31,6,4,2,0.361
-Philadelphia Phillies,Orion Kerkering,Reliever,58,12,6,5,0.378
-Philadelphia Phillies,Gregory Soto,Reliever,53,14,5,6,0.449
-Philadelphia Phillies,Seranthony Domínguez,Reliever,49,12,6,6,0.478
-Baltimore Orioles,Corbin Burnes,Starter,84,18,6,9,0.382
-Baltimore Orioles,Grayson Rodriguez,Starter,120,27,13,12,0.416
-Baltimore Orioles,Kyle Bradish,Starter,127,33,11,13,0.422
-Baltimore Orioles,Dean Kremer,Starter,84,18,6,8,0.364
-Baltimore Orioles,Cade Povich,Starter,122,25,17,12,0.43
-Baltimore Orioles,John Means,Starter,75,13,8,6,0.348
-Baltimore Orioles,Craig Kimbrel,Reliever,45,12,5,5,0.464
-Baltimore Orioles,Yennier Cano,Reliever,46,10,4,5,0.402
-Baltimore Orioles,Cionel Pérez,Reliever,55,10,8,5,0.409
-Baltimore Orioles,Danny Coulombe,Reliever,38,9,2,5,0.416
-Baltimore Orioles,Jacob Webb,Reliever,63,12,4,5,0.316
-Baltimore Orioles,Mike Baumann,Reliever,30,8,3,3,0.437
-San Diego Padres,Logan Webb (SD),Starter,91,23,6,11,0.424
-San Diego Padres,Dylan Cease,Starter,120,30,8,12,0.392
-San Diego Padres,Michael King,Starter,138,26,13,14,0.378
-San Diego Padres,Joe Musgrove,Starter,138,31,10,15,0.393
-San Diego Padres,Yu Darvish,Starter,108,23,11,11,0.404
-San Diego Padres,Randy Vásquez,Starter,79,21,11,9,0.496
-San Diego Padres,Mason Miller,Reliever,39,9,4,4,0.418
-San Diego Padres,Robert Suarez,Reliever,34,8,4,4,0.459
-San Diego Padres,Wandy Peralta,Reliever,31,5,3,2,0.306
-San Diego Padres,Tom Cosgrove,Reliever,53,13,6,5,0.426
-San Diego Padres,Enyel De Los Santos,Reliever,41,8,6,4,0.429
-San Diego Padres,Stephen Kolek,Reliever,58,10,4,4,0.293
-Seattle Mariners,Luis Castillo,Starter,104,22,12,10,0.408
-Seattle Mariners,George Kirby,Starter,103,21,11,11,0.41
-Seattle Mariners,Logan Gilbert,Starter,98,18,10,10,0.384
-Seattle Mariners,Bryce Miller,Starter,105,20,13,10,0.4
-Seattle Mariners,Bryan Woo,Starter,118,29,9,12,0.401
-Seattle Mariners,Emerson Hancock,Starter,93,24,10,10,0.449
-Seattle Mariners,Andrés Muñoz,Reliever,42,10,3,4,0.381
-Seattle Mariners,Matt Brash,Reliever,49,12,4,6,0.437
-Seattle Mariners,Ryder Ryan,Reliever,41,11,5,5,0.493
-Seattle Mariners,Gabe Speier,Reliever,57,15,8,7,0.509
-Seattle Mariners,Trent Thornton,Reliever,45,10,4,4,0.378
-Seattle Mariners,Collin Snider,Reliever,50,12,6,6,0.468
-Texas Rangers,Nathan Eovaldi,Starter,122,27,9,13,0.389
-Texas Rangers,Jon Gray,Starter,74,18,8,9,0.461
-Texas Rangers,Andrew Heaney,Starter,78,19,9,7,0.421
-Texas Rangers,Dane Dunning,Starter,76,16,6,7,0.364
-Texas Rangers,Cody Bradford,Starter,96,24,7,9,0.389
-Texas Rangers,Jack Leiter,Starter,77,16,7,8,0.392
-Texas Rangers,Kirby Yates,Reliever,36,10,4,4,0.472
-Texas Rangers,José Leclerc,Reliever,60,13,6,6,0.402
-Texas Rangers,David Robertson,Reliever,39,10,3,4,0.41
-Texas Rangers,Brock Burke,Reliever,42,9,4,4,0.388
-Texas Rangers,Yerry Rodríguez,Reliever,37,7,4,3,0.362
-Texas Rangers,Jacob Latz,Reliever,42,8,4,3,0.336
-Chicago Cubs,Shota Imanaga,Starter,94,25,8,14,0.495
-Chicago Cubs,Justin Steele,Starter,113,31,12,14,0.484
-Chicago Cubs,Jameson Taillon,Starter,105,24,15,11,0.46
-Chicago Cubs,Cade Horton,Starter,118,29,12,14,0.452
-Chicago Cubs,Jordan Wicks,Starter,72,19,5,8,0.421
-Chicago Cubs,Javier Assad,Starter,85,22,9,11,0.481
-Chicago Cubs,Clay Holmes,Reliever,37,7,4,3,0.362
-Chicago Cubs,Adbert Alzolay,Reliever,57,10,8,5,0.395
-Chicago Cubs,Julian Merryweather,Reliever,46,9,4,4,0.354
-Chicago Cubs,Hector Neris,Reliever,58,11,4,6,0.357
-Chicago Cubs,Mark Leiter Jr.,Reliever,34,8,3,4,0.429
-Chicago Cubs,Drew Smyly,Reliever,34,6,3,3,0.344
-St. Louis Cardinals,Sonny Gray (STL),Starter,118,25,15,11,0.415
-St. Louis Cardinals,Miles Mikolas,Starter,128,33,17,15,0.489
-St. Louis Cardinals,Jordan Montgomery,Starter,70,12,5,6,0.32
-St. Louis Cardinals,Steven Matz,Starter,138,38,20,18,0.533
-St. Louis Cardinals,Gordon Graceffo,Starter,122,33,16,14,0.493
-St. Louis Cardinals,Andre Pallante,Starter,70,19,8,8,0.476
-St. Louis Cardinals,Ryan Helsley,Reliever,61,11,5,4,0.307
-St. Louis Cardinals,Giovanny Gallegos,Reliever,63,14,8,6,0.425
-St. Louis Cardinals,JoJo Romero,Reliever,30,7,3,3,0.413
-St. Louis Cardinals,Riley O'Brien,Reliever,46,8,3,4,0.317
-St. Louis Cardinals,John King,Reliever,50,12,6,6,0.468
-St. Louis Cardinals,Keynan Middleton,Reliever,63,13,7,6,0.398
-Milwaukee Brewers,Freddy Peralta,Starter,120,32,11,15,0.466
-Milwaukee Brewers,Brandon Woodruff,Starter,99,23,13,13,0.491
-Milwaukee Brewers,Colin Rea,Starter,73,16,10,8,0.455
-Milwaukee Brewers,Robert Gasser,Starter,138,38,15,17,0.486
-Milwaukee Brewers,Jacob Misiorowski,Starter,112,22,8,9,0.329
-Milwaukee Brewers,Aaron Civale,Starter,124,29,12,15,0.442
-Milwaukee Brewers,Devin Williams,Reliever,33,6,3,3,0.355
-Milwaukee Brewers,Trevor Megill,Reliever,32,7,4,3,0.419
-Milwaukee Brewers,Joel Payamps,Reliever,48,12,4,5,0.415
-Milwaukee Brewers,Abner Uribe,Reliever,51,9,4,4,0.32
-Milwaukee Brewers,Elvis Peguero,Reliever,55,14,4,6,0.415
-Milwaukee Brewers,Hoby Milner,Reliever,56,10,7,5,0.384
-Cincinnati Reds,Hunter Greene,Starter,125,33,17,13,0.477
-Cincinnati Reds,Andrew Abbott,Starter,95,25,7,12,0.447
-Cincinnati Reds,Nick Lodolo,Starter,121,24,12,11,0.374
-Cincinnati Reds,Graham Ashcraft,Starter,97,21,10,11,0.425
-Cincinnati Reds,Chase Burns,Starter,83,16,6,8,0.352
-Cincinnati Reds,Rhett Lowder,Starter,92,21,10,8,0.399
-Cincinnati Reds,Alexis Díaz,Reliever,64,14,5,7,0.395
-Cincinnati Reds,Lucas Sims,Reliever,57,10,5,4,0.316
-Cincinnati Reds,Ian Gibaut,Reliever,55,12,4,5,0.362
-Cincinnati Reds,Fernando Cruz,Reliever,54,13,7,6,0.465
-Cincinnati Reds,Buck Farmer,Reliever,51,12,6,5,0.429
-Cincinnati Reds,Sam Moll,Reliever,48,10,4,5,0.385
-Pittsburgh Pirates,Paul Skenes,Starter,133,31,13,17,0.453
-Pittsburgh Pirates,Mitch Keller,Starter,102,18,8,8,0.32
-Pittsburgh Pirates,Bailey Falter,Starter,73,19,5,10,0.456
-Pittsburgh Pirates,Braxton Ashcraft,Starter,93,25,7,12,0.457
-Pittsburgh Pirates,Johan Oviedo,Starter,109,27,16,15,0.527
-Pittsburgh Pirates,Jared Jones,Starter,73,13,10,6,0.385
-Pittsburgh Pirates,David Bednar (PIT),Reliever,31,7,3,3,0.4
-Pittsburgh Pirates,Colin Holderman,Reliever,34,6,3,2,0.3
-Pittsburgh Pirates,Carmen Mlodzinski,Reliever,62,15,6,7,0.435
-Pittsburgh Pirates,Ryan Borucki,Reliever,43,8,5,3,0.351
-Pittsburgh Pirates,Dauri Moreta,Reliever,42,9,3,4,0.364
-Pittsburgh Pirates,Hunter Stratton,Reliever,39,9,4,3,0.379
-Cleveland Guardians,Shane Bieber,Starter,109,28,9,14,0.455
-Cleveland Guardians,Tanner Bibee,Starter,86,16,9,8,0.374
-Cleveland Guardians,Triston McKenzie,Starter,104,22,15,12,0.465
-Cleveland Guardians,Logan Allen,Starter,119,22,15,12,0.407
-Cleveland Guardians,Gavin Williams,Starter,104,28,13,11,0.472
-Cleveland Guardians,Joey Cantillo,Starter,80,20,6,8,0.4
-Cleveland Guardians,Emmanuel Clase,Reliever,50,9,4,4,0.326
-Cleveland Guardians,Cade Smith,Reliever,33,6,3,3,0.355
-Cleveland Guardians,Tim Herrin,Reliever,37,8,3,3,0.354
-Cleveland Guardians,Hunter Gaddis,Reliever,62,15,6,6,0.411
-Cleveland Guardians,Eli Morgan,Reliever,62,13,6,5,0.365
-Cleveland Guardians,Nick Sandlin,Reliever,35,9,4,4,0.466
-Minnesota Twins,Pablo López,Starter,133,26,18,12,0.408
-Minnesota Twins,Joe Ryan,Starter,96,24,7,10,0.404
-Minnesota Twins,Bailey Ober,Starter,96,24,6,12,0.425
-Minnesota Twins,Simeon Woods Richardson,Starter,79,18,10,7,0.419
-Minnesota Twins,Chris Paddack,Starter,82,15,11,6,0.372
-Minnesota Twins,David Festa,Starter,125,28,14,13,0.425
-Minnesota Twins,Jhoan Duran,Reliever,33,8,4,4,0.473
-Minnesota Twins,Griffin Jax,Reliever,55,11,5,4,0.34
-Minnesota Twins,Caleb Thielbar,Reliever,39,8,3,3,0.336
-Minnesota Twins,Brock Stewart,Reliever,55,15,4,7,0.455
-Minnesota Twins,Jorge Alcalá,Reliever,47,11,3,6,0.419
-Minnesota Twins,Jay Jackson,Reliever,41,7,5,3,0.351
-Detroit Tigers,Tarik Skubal,Starter,106,26,8,13,0.431
-Detroit Tigers,Jack Flaherty,Starter,78,17,10,9,0.454
-Detroit Tigers,Kenta Maeda,Starter,80,18,6,10,0.42
-Detroit Tigers,Matt Manning,Starter,105,20,15,11,0.433
-Detroit Tigers,Casey Mize,Starter,124,25,14,11,0.387
-Detroit Tigers,Reese Olson,Starter,122,26,16,10,0.403
-Detroit Tigers,Jason Foley,Reliever,64,14,7,7,0.427
-Detroit Tigers,Alex Lange,Reliever,31,7,3,3,0.4
-Detroit Tigers,Will Vest,Reliever,53,12,4,4,0.347
-Detroit Tigers,Shelby Miller,Reliever,62,13,7,6,0.405
-Detroit Tigers,Tyler Holton,Reliever,57,11,6,6,0.398
-Detroit Tigers,Andrew Chafin,Reliever,49,10,3,5,0.357
-Kansas City Royals,Cole Ragans,Starter,118,24,11,11,0.375
-Kansas City Royals,Seth Lugo,Starter,120,24,17,10,0.407
-Kansas City Royals,Brady Singer,Starter,98,23,9,12,0.44
-Kansas City Royals,Michael Wacha,Starter,88,16,11,7,0.372
-Kansas City Royals,Alec Marsh,Starter,135,31,14,15,0.431
-Kansas City Royals,Kris Bubic,Starter,120,23,10,12,0.367
-Kansas City Royals,James McArthur,Reliever,32,6,2,3,0.334
-Kansas City Royals,Will Smith,Reliever,62,11,5,5,0.326
-Kansas City Royals,Chris Stratton,Reliever,58,12,6,5,0.378
-Kansas City Royals,Nick Anderson,Reliever,52,12,3,5,0.363
-Kansas City Royals,Angel Zerpa,Reliever,32,8,3,4,0.456
-Kansas City Royals,Carlos Hernández,Reliever,64,13,8,7,0.431
-Chicago White Sox,Garrett Crochet,Starter,85,18,10,7,0.389
-Chicago White Sox,Erick Fedde,Starter,124,33,8,13,0.408
-Chicago White Sox,Drew Thorpe,Starter,92,24,7,13,0.471
-Chicago White Sox,Nick Nastrini,Starter,98,21,13,11,0.451
-Chicago White Sox,Jared Shuster,Starter,89,19,12,8,0.419
-Chicago White Sox,Jonathan Cannon,Starter,81,21,7,11,0.472
-Chicago White Sox,Michael Kopech (CWS),Reliever,38,8,3,4,0.384
-Chicago White Sox,Deivi García,Reliever,51,13,4,6,0.433
-Chicago White Sox,Jordan Leasure,Reliever,52,13,5,5,0.415
-Chicago White Sox,Dominic Leone,Reliever,43,10,5,4,0.419
-Chicago White Sox,Steven Wilson,Reliever,38,7,5,4,0.418
-Chicago White Sox,Bryan Shaw,Reliever,58,11,5,4,0.322
-Toronto Blue Jays,Kevin Gausman,Starter,87,20,11,9,0.443
-Toronto Blue Jays,José Berríos,Starter,103,24,12,13,0.469
-Toronto Blue Jays,Chris Bassitt,Starter,96,25,13,12,0.505
-Toronto Blue Jays,Yusei Kikuchi,Starter,81,19,8,9,0.43
-Toronto Blue Jays,Ricky Tiedemann,Starter,86,19,8,9,0.405
-Toronto Blue Jays,Alek Manoah,Starter,133,28,19,12,0.426
-Toronto Blue Jays,Jordan Romano,Reliever,55,10,7,4,0.364
-Toronto Blue Jays,Tim Mayza,Reliever,64,17,6,9,0.491
-Toronto Blue Jays,Erik Swanson,Reliever,51,12,4,4,0.361
-Toronto Blue Jays,Yimi García,Reliever,49,9,6,4,0.373
-Toronto Blue Jays,Nate Pearson,Reliever,63,15,6,6,0.405
-Toronto Blue Jays,Trevor Richards,Reliever,46,10,5,5,0.424
-Tampa Bay Rays,Shane McClanahan,Starter,94,19,12,10,0.429
-Tampa Bay Rays,Drew Rasmussen,Starter,113,31,7,12,0.413
-Tampa Bay Rays,Shane Baz,Starter,113,29,16,15,0.52
-Tampa Bay Rays,Taj Bradley,Starter,126,28,10,13,0.39
-Tampa Bay Rays,Nick Martinez,Starter,77,18,10,9,0.469
-Tampa Bay Rays,Mason Montgomery,Starter,139,38,19,19,0.533
-Tampa Bay Rays,Pete Fairbanks,Reliever,55,10,6,4,0.345
-Tampa Bay Rays,Jason Adam,Reliever,45,12,3,6,0.453
-Tampa Bay Rays,Colin Poche,Reliever,36,6,4,2,0.311
-Tampa Bay Rays,Garrett Cleavinger,Reliever,37,10,5,4,0.486
-Tampa Bay Rays,Kevin Kelly,Reliever,59,10,6,4,0.322
-Tampa Bay Rays,Shawn Armstrong,Reliever,46,11,4,5,0.417
-New York Mets,Kodai Senga,Starter,114,21,14,9,0.37
-New York Mets,Sean Manaea,Starter,124,27,14,14,0.435
-New York Mets,Luis Severino,Starter,73,18,6,9,0.44
-New York Mets,José Quintana,Starter,85,18,11,8,0.419
-New York Mets,Christian Scott,Starter,111,30,7,13,0.428
-New York Mets,Brandon Sproat,Starter,87,23,11,13,0.536
-New York Mets,Edwin Díaz,Reliever,58,14,5,6,0.41
-New York Mets,Adam Ottavino,Reliever,45,12,6,6,0.52
-New York Mets,Brooks Raley,Reliever,54,11,6,5,0.393
-New York Mets,Drew Smith,Reliever,32,7,3,3,0.387
-New York Mets,Phil Bickford,Reliever,47,9,3,3,0.294
-New York Mets,Reed Garrett,Reliever,44,9,4,4,0.37
-Washington Nationals,MacKenzie Gore,Starter,81,22,10,9,0.48
-Washington Nationals,Josiah Gray,Starter,139,38,19,19,0.533
-Washington Nationals,Jake Irvin,Starter,131,31,10,17,0.437
-Washington Nationals,Trevor Williams,Starter,128,28,17,12,0.427
-Washington Nationals,Mitchell Parker,Starter,126,25,10,13,0.373
-Washington Nationals,Cade Cavalli,Starter,75,19,9,8,0.457
-Washington Nationals,Kyle Finnegan,Reliever,38,10,5,4,0.474
-Washington Nationals,Hunter Harvey,Reliever,64,16,8,6,0.441
-Washington Nationals,Dylan Floro,Reliever,61,13,7,6,0.411
-Washington Nationals,Jordan Weems,Reliever,54,12,6,4,0.378
-Washington Nationals,Robert Garcia,Reliever,32,6,3,2,0.319
-Washington Nationals,Derek Law,Reliever,63,16,8,8,0.495
-Miami Marlins,Sandy Alcantara,Starter,74,18,6,8,0.414
-Miami Marlins,Eury Pérez,Starter,107,22,13,10,0.406
-Miami Marlins,Max Meyer,Starter,139,38,10,21,0.49
-Miami Marlins,Braxton Garrett,Starter,109,29,12,16,0.517
-Miami Marlins,Ryan Weathers,Starter,136,29,16,14,0.421
-Miami Marlins,Valente Bellozo,Starter,102,27,13,14,0.519
-Miami Marlins,Tanner Scott,Reliever,62,12,5,5,0.337
-Miami Marlins,Andrew Nardi,Reliever,54,14,4,7,0.45
-Miami Marlins,A.J. Puk,Reliever,36,9,5,4,0.481
-Miami Marlins,Declan Cronin,Reliever,60,15,4,6,0.392
-Miami Marlins,Bryan Hoeing,Reliever,59,15,4,7,0.424
-Miami Marlins,George Soriano,Reliever,42,9,2,4,0.34
-San Francisco Giants,Logan Webb (SF),Starter,115,24,13,10,0.39
-San Francisco Giants,Robbie Ray,Starter,129,23,17,9,0.361
-San Francisco Giants,Kyle Harrison,Starter,99,18,10,9,0.365
-San Francisco Giants,Tristan Beck,Starter,97,23,14,9,0.449
-San Francisco Giants,Keaton Winn,Starter,137,27,18,15,0.434
-San Francisco Giants,Hayden Birdsong,Starter,133,33,10,16,0.429
-San Francisco Giants,Camilo Doval,Reliever,30,5,2,2,0.283
-San Francisco Giants,Taylor Rogers,Reliever,43,11,6,5,0.493
-San Francisco Giants,Tyler Rogers,Reliever,64,15,6,6,0.398
-San Francisco Giants,Ryan Walker,Reliever,62,13,6,7,0.413
-San Francisco Giants,Luke Jackson,Reliever,52,11,4,6,0.398
-San Francisco Giants,Sean Hjelle,Reliever,46,8,6,3,0.35
-Arizona Diamondbacks,Zac Gallen,Starter,98,24,8,9,0.391
-Arizona Diamondbacks,Merrill Kelly,Starter,91,17,12,9,0.411
-Arizona Diamondbacks,Eduardo Rodriguez,Starter,125,27,18,12,0.439
-Arizona Diamondbacks,Brandon Pfaadt,Starter,128,35,16,16,0.504
-Arizona Diamondbacks,Ryne Nelson,Starter,70,14,8,7,0.404
-Arizona Diamondbacks,Jordan Montgomery (ARI),Starter,104,19,12,8,0.359
-Arizona Diamondbacks,Paul Sewald,Reliever,44,9,4,3,0.336
-Arizona Diamondbacks,Kevin Ginkel,Reliever,54,14,7,7,0.506
-Arizona Diamondbacks,Ryan Thompson,Reliever,36,8,2,3,0.336
-Arizona Diamondbacks,Joe Mantiply,Reliever,32,6,3,2,0.319
-Arizona Diamondbacks,Miguel Castro,Reliever,36,6,4,2,0.311
-Arizona Diamondbacks,Scott McGough,Reliever,51,12,4,6,0.42
-Colorado Rockies,German Márquez,Starter,80,22,6,10,0.455
-Colorado Rockies,Kyle Freeland,Starter,133,29,19,15,0.465
-Colorado Rockies,Austin Gomber,Starter,80,19,11,10,0.491
-Colorado Rockies,Cal Quantrill,Starter,77,19,10,8,0.458
-Colorado Rockies,Peter Lambert,Starter,115,22,12,11,0.382
-Colorado Rockies,Ryan Feltner,Starter,89,19,11,10,0.442
-Colorado Rockies,Justin Lawrence,Reliever,62,14,4,6,0.368
-Colorado Rockies,Jake Bird,Reliever,62,16,6,7,0.447
-Colorado Rockies,Victor Vodnik,Reliever,55,13,7,5,0.429
-Colorado Rockies,Tyler Kinley,Reliever,40,7,5,3,0.36
-Colorado Rockies,Jalen Beeks,Reliever,38,7,4,3,0.353
-Colorado Rockies,Nick Mears,Reliever,37,10,4,5,0.5
-Los Angeles Angels,Reid Detmers,Starter,76,18,8,9,0.449
-Los Angeles Angels,Tyler Anderson,Starter,91,20,11,9,0.423
-Los Angeles Angels,Griffin Canning,Starter,83,15,6,6,0.307
-Los Angeles Angels,Chase Silseth,Starter,82,18,9,8,0.41
-Los Angeles Angels,José Soriano,Starter,114,22,15,11,0.411
-Los Angeles Angels,Caden Dana,Starter,120,23,8,11,0.338
-Los Angeles Angels,Carlos Estévez,Reliever,61,14,6,5,0.382
-Los Angeles Angels,Ben Joyce,Reliever,64,12,6,5,0.342
-Los Angeles Angels,Matt Moore,Reliever,36,8,5,4,0.461
-Los Angeles Angels,Luis García,Reliever,53,11,5,5,0.381
-Los Angeles Angels,José Quijada,Reliever,49,11,5,5,0.412
-Los Angeles Angels,Adam Cimber,Reliever,63,14,8,7,0.449
-Oakland Athletics,JP Sears,Starter,75,18,11,8,0.475
-Oakland Athletics,Alex Wood,Starter,81,17,8,9,0.412
-Oakland Athletics,Ross Stripling,Starter,95,23,13,9,0.448
-Oakland Athletics,Paul Blackburn (OAK),Starter,113,24,12,11,0.401
-Oakland Athletics,Joe Boyle,Starter,107,24,9,13,0.423
-Oakland Athletics,Mitch Spence,Starter,83,19,8,9,0.419
-Oakland Athletics,Mason Miller (OAK),Reliever,35,8,3,3,0.374
-Oakland Athletics,Lucas Erceg,Reliever,64,15,6,8,0.445
-Oakland Athletics,Austin Adams,Reliever,52,11,4,4,0.34
-Oakland Athletics,Michael Kelly,Reliever,43,9,4,4,0.379
-Oakland Athletics,Scott Alexander,Reliever,30,6,3,3,0.39
-Oakland Athletics,Trevor Gott,Reliever,49,10,5,4,0.367
+Team,Pitcher,Role,PA_RISP,H_RISP,BB_RISP,R_RISP,Pressure_Pitch,Standard_ERA,Pressure_Adjusted_ERA
+New York Yankees,Gerrit Cole,Starter,121,33,15,16,0.513,4.17,4.45
+New York Yankees,Max Fried,Starter,93,22,6,11,0.408,3.76,3.73
+New York Yankees,Carlos Rodón,Starter,99,19,8,8,0.336,4.27,4.01
+New York Yankees,Luis Gil,Starter,127,29,13,13,0.416,4.84,4.83
+New York Yankees,Will Warren,Starter,128,28,9,16,0.411,3.7,3.68
+New York Yankees,Cam Schlittler,Starter,84,18,11,7,0.406,3.7,3.66
+New York Yankees,David Bednar,Reliever,32,8,3,3,0.409,4.17,4.14
+New York Yankees,Luke Weaver,Reliever,47,12,6,6,0.498,3.72,3.93
+New York Yankees,John Schreiber,Reliever,38,6,3,2,0.268,3.04,2.71
+New York Yankees,Alec Gamboa,Reliever,36,8,4,3,0.392,3.6,3.53
+New York Yankees,Tim Hill,Reliever,46,9,5,4,0.376,3.05,2.95
+New York Yankees,Caleb Ferguson,Reliever,35,7,4,2,0.34,3.04,2.87
+Boston Red Sox,Ranger Suárez,Starter,87,22,12,12,0.522,4.01,4.3
+Boston Red Sox,Brayan Bello,Starter,83,20,7,10,0.434,2.61,2.64
+Boston Red Sox,Jake Bennett,Starter,131,27,13,12,0.381,2.73,2.65
+Boston Red Sox,Sonny Gray,Starter,122,29,17,14,0.478,3.48,3.62
+Boston Red Sox,Patrick Sandoval,Starter,110,23,9,9,0.351,3.19,3.03
+Boston Red Sox,Payton Tolle,Starter,78,20,6,8,0.41,4.05,4.02
+Boston Red Sox,Aroldis Chapman,Reliever,40,7,5,3,0.36,2.8,2.68
+Boston Red Sox,Wyatt Olds,Reliever,34,9,4,5,0.524,2.52,2.71
+Boston Red Sox,Greg Weissert,Reliever,38,9,3,3,0.363,4.11,3.94
+Boston Red Sox,Garrett Whitlock,Reliever,52,12,6,6,0.45,3.18,3.25
+Boston Red Sox,Raymond Burgos,Reliever,51,13,5,5,0.424,3.34,3.35
+Boston Red Sox,Erik Miller,Reliever,43,11,5,4,0.435,2.52,2.55
+Los Angeles Dodgers,Yoshinobu Yamamoto,Starter,83,19,9,9,0.431,3.5,3.53
+Los Angeles Dodgers,Tyler Glasnow,Starter,111,24,9,13,0.408,3.92,3.89
+Los Angeles Dodgers,Shohei Ohtani,Starter,121,28,15,11,0.422,3.1,3.1
+Los Angeles Dodgers,Bobby Miller,Starter,84,21,7,8,0.401,4.09,4.03
+Los Angeles Dodgers,Gavin Stone,Starter,128,31,17,15,0.478,3.46,3.6
+Los Angeles Dodgers,Justin Wrobleski,Starter,131,31,18,16,0.486,3.66,3.83
+Los Angeles Dodgers,Evan Phillips,Reliever,49,13,5,7,0.502,2.97,3.14
+Los Angeles Dodgers,Blake Treinen,Reliever,57,12,8,5,0.419,4.32,4.32
+Los Angeles Dodgers,Alex Vesia,Reliever,56,12,7,6,0.436,3.29,3.33
+Los Angeles Dodgers,Daniel Hudson,Reliever,35,8,3,3,0.374,2.72,2.63
+Los Angeles Dodgers,Ryan Brasier,Reliever,53,14,5,6,0.449,3.75,3.83
+Los Angeles Dodgers,Joe Kelly,Reliever,41,8,4,3,0.344,2.63,2.49
+Houston Astros,Framber Valdez,Starter,125,22,14,10,0.355,3.99,3.8
+Houston Astros,Hunter Brown,Starter,123,22,12,11,0.357,2.58,2.46
+Houston Astros,Cristian Javier,Starter,71,16,7,7,0.404,2.99,2.96
+Houston Astros,Ronel Blanco,Starter,137,25,13,11,0.343,3.98,3.76
+Houston Astros,J.P. France,Starter,107,23,12,11,0.417,4.33,4.32
+Houston Astros,Spencer Arrighetti,Starter,80,20,10,8,0.45,3.96,4.04
+Houston Astros,Josh Hader,Reliever,35,8,4,3,0.403,3.24,3.2
+Houston Astros,Ryan Pressly,Reliever,48,12,6,5,0.456,3.13,3.21
+Houston Astros,Bryan Abreu,Reliever,36,7,4,3,0.372,2.49,2.4
+Houston Astros,Rafael Montero,Reliever,47,12,5,6,0.477,2.9,3.02
+Houston Astros,Kendall Graveman,Reliever,52,12,6,5,0.421,3.05,3.05
+Houston Astros,Seth Martinez,Reliever,45,11,5,5,0.449,3.88,3.96
+Atlanta Braves,Chris Sale,Starter,71,19,10,9,0.518,4.07,4.35
+Atlanta Braves,Spencer Strider,Starter,101,24,9,11,0.419,2.7,2.7
+Atlanta Braves,Reynaldo López,Starter,117,30,16,14,0.496,4.06,4.28
+Atlanta Braves,Max Fried (ATL),Starter,102,24,7,10,0.38,3.6,3.5
+Atlanta Braves,AJ Smith-Shawver,Starter,107,26,12,12,0.45,3.41,3.48
+Atlanta Braves,Ian Anderson,Starter,94,16,7,7,0.305,4.25,3.9
+Atlanta Braves,Raisel Iglesias,Reliever,64,15,5,7,0.406,3.87,3.83
+Atlanta Braves,A.J. Minter,Reliever,62,14,5,6,0.384,3.81,3.71
+Atlanta Braves,Pierce Johnson,Reliever,37,9,4,4,0.441,2.84,2.88
+Atlanta Braves,Joe Jiménez,Reliever,41,9,4,4,0.398,3.13,3.08
+Atlanta Braves,Tyler Matzek,Reliever,59,16,5,8,0.478,3.48,3.62
+Atlanta Braves,Dylan Lee,Reliever,56,12,5,6,0.4,3.84,3.79
+Philadelphia Phillies,Zack Wheeler,Starter,133,35,11,17,0.459,3.54,3.64
+Philadelphia Phillies,Aaron Nola,Starter,73,13,8,5,0.337,3.73,3.51
+Philadelphia Phillies,Cristopher Sánchez,Starter,99,27,14,12,0.514,3.13,3.34
+Philadelphia Phillies,Taijuan Walker,Starter,106,28,11,16,0.515,3.07,3.28
+Philadelphia Phillies,Jesús Luzardo,Starter,129,34,12,15,0.452,4.38,4.48
+Philadelphia Phillies,Mick Abel,Starter,102,21,8,10,0.37,4.73,4.56
+Philadelphia Phillies,José Alvarado,Reliever,60,15,8,6,0.458,3.26,3.35
+Philadelphia Phillies,Jeff Hoffman,Reliever,61,15,6,6,0.418,3.85,3.84
+Philadelphia Phillies,Matt Strahm,Reliever,31,6,4,2,0.361,3.5,3.35
+Philadelphia Phillies,Orion Kerkering,Reliever,58,12,6,5,0.378,2.95,2.86
+Philadelphia Phillies,Gregory Soto,Reliever,53,14,5,6,0.449,3.5,3.57
+Philadelphia Phillies,Seranthony Domínguez,Reliever,49,12,6,6,0.478,4.15,4.32
+Baltimore Orioles,Corbin Burnes,Starter,84,18,6,9,0.382,3.83,3.73
+Baltimore Orioles,Grayson Rodriguez,Starter,120,27,13,12,0.416,4.87,4.86
+Baltimore Orioles,Kyle Bradish,Starter,127,33,11,13,0.422,2.15,2.15
+Baltimore Orioles,Dean Kremer,Starter,84,18,6,8,0.364,4.38,4.2
+Baltimore Orioles,Cade Povich,Starter,122,25,17,12,0.43,3.91,3.94
+Baltimore Orioles,John Means,Starter,75,13,8,6,0.348,3.66,3.47
+Baltimore Orioles,Craig Kimbrel,Reliever,45,12,5,5,0.464,3.35,3.46
+Baltimore Orioles,Yennier Cano,Reliever,46,10,4,5,0.402,2.21,2.18
+Baltimore Orioles,Cionel Pérez,Reliever,55,10,8,5,0.409,3.18,3.16
+Baltimore Orioles,Danny Coulombe,Reliever,38,9,2,5,0.416,3.5,3.49
+Baltimore Orioles,Jacob Webb,Reliever,63,12,4,5,0.316,4.11,3.8
+Baltimore Orioles,Mike Baumann,Reliever,30,8,3,3,0.437,3.01,3.05
+San Diego Padres,Logan Webb (SD),Starter,91,23,6,11,0.424,3.32,3.33
+San Diego Padres,Dylan Cease,Starter,120,30,8,12,0.392,3.52,3.45
+San Diego Padres,Michael King,Starter,138,26,13,14,0.378,4.45,4.32
+San Diego Padres,Joe Musgrove,Starter,138,31,10,15,0.393,4.06,3.98
+San Diego Padres,Yu Darvish,Starter,108,23,11,11,0.404,3.51,3.47
+San Diego Padres,Randy Vásquez,Starter,79,21,11,9,0.496,4.18,4.41
+San Diego Padres,Mason Miller,Reliever,39,9,4,4,0.418,3.35,3.35
+San Diego Padres,Robert Suarez,Reliever,34,8,4,4,0.459,3.83,3.94
+San Diego Padres,Wandy Peralta,Reliever,31,5,3,2,0.306,2.91,2.67
+San Diego Padres,Tom Cosgrove,Reliever,53,13,6,5,0.426,3.12,3.13
+San Diego Padres,Enyel De Los Santos,Reliever,41,8,6,4,0.429,3.08,3.1
+San Diego Padres,Stephen Kolek,Reliever,58,10,4,4,0.293,2.5,2.27
+Seattle Mariners,Luis Castillo,Starter,104,22,12,10,0.408,4.04,4.01
+Seattle Mariners,George Kirby,Starter,103,21,11,11,0.41,4.02,3.99
+Seattle Mariners,Logan Gilbert,Starter,98,18,10,10,0.384,3.85,3.75
+Seattle Mariners,Bryce Miller,Starter,105,20,13,10,0.4,3.7,3.65
+Seattle Mariners,Bryan Woo,Starter,118,29,9,12,0.401,2.93,2.89
+Seattle Mariners,Emerson Hancock,Starter,93,24,10,10,0.449,3.58,3.65
+Seattle Mariners,Andrés Muñoz,Reliever,42,10,3,4,0.381,3.11,3.02
+Seattle Mariners,Matt Brash,Reliever,49,12,4,6,0.437,2.86,2.89
+Seattle Mariners,Ryder Ryan,Reliever,41,11,5,5,0.493,3.21,3.38
+Seattle Mariners,Gabe Speier,Reliever,57,15,8,7,0.509,3.52,3.74
+Seattle Mariners,Trent Thornton,Reliever,45,10,4,4,0.378,4.34,4.21
+Seattle Mariners,Collin Snider,Reliever,50,12,6,6,0.468,3.4,3.52
+Texas Rangers,Nathan Eovaldi,Starter,122,27,9,13,0.389,4.02,3.93
+Texas Rangers,Jon Gray,Starter,74,18,8,9,0.461,3.8,3.91
+Texas Rangers,Andrew Heaney,Starter,78,19,9,7,0.421,2.6,2.6
+Texas Rangers,Dane Dunning,Starter,76,16,6,7,0.364,3.83,3.68
+Texas Rangers,Cody Bradford,Starter,96,24,7,9,0.389,3.89,3.8
+Texas Rangers,Jack Leiter,Starter,77,16,7,8,0.392,5.45,5.34
+Texas Rangers,Kirby Yates,Reliever,36,10,4,4,0.472,3.19,3.31
+Texas Rangers,José Leclerc,Reliever,60,13,6,6,0.402,3.47,3.43
+Texas Rangers,David Robertson,Reliever,39,10,3,4,0.41,3.28,3.26
+Texas Rangers,Brock Burke,Reliever,42,9,4,4,0.388,2.66,2.6
+Texas Rangers,Yerry Rodríguez,Reliever,37,7,4,3,0.362,3.93,3.77
+Texas Rangers,Jacob Latz,Reliever,42,8,4,3,0.336,3.71,3.49
+Chicago Cubs,Shota Imanaga,Starter,94,25,8,14,0.495,4.36,4.59
+Chicago Cubs,Justin Steele,Starter,113,31,12,14,0.484,3.26,3.41
+Chicago Cubs,Jameson Taillon,Starter,105,24,15,11,0.46,4.76,4.9
+Chicago Cubs,Cade Horton,Starter,118,29,12,14,0.452,2.94,3.01
+Chicago Cubs,Jordan Wicks,Starter,72,19,5,8,0.421,4.23,4.23
+Chicago Cubs,Javier Assad,Starter,85,22,9,11,0.481,5.27,5.5
+Chicago Cubs,Clay Holmes,Reliever,37,7,4,3,0.362,2.76,2.65
+Chicago Cubs,Adbert Alzolay,Reliever,57,10,8,5,0.395,2.99,2.94
+Chicago Cubs,Julian Merryweather,Reliever,46,9,4,4,0.354,3.35,3.19
+Chicago Cubs,Hector Neris,Reliever,58,11,4,6,0.357,3.02,2.88
+Chicago Cubs,Mark Leiter Jr.,Reliever,34,8,3,4,0.429,2.45,2.47
+Chicago Cubs,Drew Smyly,Reliever,34,6,3,3,0.344,3.34,3.16
+St. Louis Cardinals,Sonny Gray (STL),Starter,118,25,15,11,0.415,3.16,3.15
+St. Louis Cardinals,Miles Mikolas,Starter,128,33,17,15,0.489,4.16,4.37
+St. Louis Cardinals,Jordan Montgomery,Starter,70,12,5,6,0.32,3.25,3.02
+St. Louis Cardinals,Steven Matz,Starter,138,38,20,18,0.533,4.86,5.25
+St. Louis Cardinals,Gordon Graceffo,Starter,122,33,16,14,0.493,3.34,3.51
+St. Louis Cardinals,Andre Pallante,Starter,70,19,8,8,0.476,3.64,3.79
+St. Louis Cardinals,Ryan Helsley,Reliever,61,11,5,4,0.307,3.75,3.45
+St. Louis Cardinals,Giovanny Gallegos,Reliever,63,14,8,6,0.425,2.62,2.63
+St. Louis Cardinals,JoJo Romero,Reliever,30,7,3,3,0.413,3.43,3.41
+St. Louis Cardinals,Riley O'Brien,Reliever,46,8,3,4,0.317,4.02,3.72
+St. Louis Cardinals,John King,Reliever,50,12,6,6,0.468,2.42,2.5
+St. Louis Cardinals,Keynan Middleton,Reliever,63,13,7,6,0.398,3.4,3.35
+Milwaukee Brewers,Freddy Peralta,Starter,120,32,11,15,0.466,4.02,4.15
+Milwaukee Brewers,Brandon Woodruff,Starter,99,23,13,13,0.491,4.36,4.58
+Milwaukee Brewers,Colin Rea,Starter,73,16,10,8,0.455,3.05,3.13
+Milwaukee Brewers,Robert Gasser,Starter,138,38,15,17,0.486,2.99,3.13
+Milwaukee Brewers,Jacob Misiorowski,Starter,112,22,8,9,0.329,4.19,3.92
+Milwaukee Brewers,Aaron Civale,Starter,124,29,12,15,0.442,4.04,4.1
+Milwaukee Brewers,Devin Williams,Reliever,33,6,3,3,0.355,3.44,3.28
+Milwaukee Brewers,Trevor Megill,Reliever,32,7,4,3,0.419,3.49,3.49
+Milwaukee Brewers,Joel Payamps,Reliever,48,12,4,5,0.415,2.93,2.92
+Milwaukee Brewers,Abner Uribe,Reliever,51,9,4,4,0.32,3.43,3.19
+Milwaukee Brewers,Elvis Peguero,Reliever,55,14,4,6,0.415,3.46,3.45
+Milwaukee Brewers,Hoby Milner,Reliever,56,10,7,5,0.384,2.91,2.84
+Cincinnati Reds,Hunter Greene,Starter,125,33,17,13,0.477,5.06,5.27
+Cincinnati Reds,Andrew Abbott,Starter,95,25,7,12,0.447,4.16,4.24
+Cincinnati Reds,Nick Lodolo,Starter,121,24,12,11,0.374,3.08,2.98
+Cincinnati Reds,Graham Ashcraft,Starter,97,21,10,11,0.425,4.28,4.3
+Cincinnati Reds,Chase Burns,Starter,83,16,6,8,0.352,3.22,3.06
+Cincinnati Reds,Rhett Lowder,Starter,92,21,10,8,0.399,4.36,4.29
+Cincinnati Reds,Alexis Díaz,Reliever,64,14,5,7,0.395,3.94,3.87
+Cincinnati Reds,Lucas Sims,Reliever,57,10,5,4,0.316,2.85,2.64
+Cincinnati Reds,Ian Gibaut,Reliever,55,12,4,5,0.362,3.83,3.67
+Cincinnati Reds,Fernando Cruz,Reliever,54,13,7,6,0.465,3.53,3.64
+Cincinnati Reds,Buck Farmer,Reliever,51,12,6,5,0.429,3.75,3.77
+Cincinnati Reds,Sam Moll,Reliever,48,10,4,5,0.385,4.34,4.23
+Pittsburgh Pirates,Paul Skenes,Starter,133,31,13,17,0.453,3.69,3.78
+Pittsburgh Pirates,Mitch Keller,Starter,102,18,8,8,0.32,3.36,3.12
+Pittsburgh Pirates,Bailey Falter,Starter,73,19,5,10,0.456,3.27,3.35
+Pittsburgh Pirates,Braxton Ashcraft,Starter,93,25,7,12,0.457,3.32,3.41
+Pittsburgh Pirates,Johan Oviedo,Starter,109,27,16,15,0.527,3.8,4.09
+Pittsburgh Pirates,Jared Jones,Starter,73,13,10,6,0.385,4.07,3.97
+Pittsburgh Pirates,David Bednar (PIT),Reliever,31,7,3,3,0.4,3.45,3.4
+Pittsburgh Pirates,Colin Holderman,Reliever,34,6,3,2,0.3,3.75,3.43
+Pittsburgh Pirates,Carmen Mlodzinski,Reliever,62,15,6,7,0.435,3.31,3.35
+Pittsburgh Pirates,Ryan Borucki,Reliever,43,8,5,3,0.351,4.1,3.9
+Pittsburgh Pirates,Dauri Moreta,Reliever,42,9,3,4,0.364,3.15,3.02
+Pittsburgh Pirates,Hunter Stratton,Reliever,39,9,4,3,0.379,4.8,4.66
+Cleveland Guardians,Shane Bieber,Starter,109,28,9,14,0.455,4.26,4.37
+Cleveland Guardians,Tanner Bibee,Starter,86,16,9,8,0.374,3.29,3.18
+Cleveland Guardians,Triston McKenzie,Starter,104,22,15,12,0.465,3.15,3.25
+Cleveland Guardians,Logan Allen,Starter,119,22,15,12,0.407,4.16,4.12
+Cleveland Guardians,Gavin Williams,Starter,104,28,13,11,0.472,3.7,3.84
+Cleveland Guardians,Joey Cantillo,Starter,80,20,6,8,0.4,4.31,4.25
+Cleveland Guardians,Emmanuel Clase,Reliever,50,9,4,4,0.326,3.56,3.32
+Cleveland Guardians,Cade Smith,Reliever,33,6,3,3,0.355,3.26,3.11
+Cleveland Guardians,Tim Herrin,Reliever,37,8,3,3,0.354,2.83,2.7
+Cleveland Guardians,Hunter Gaddis,Reliever,62,15,6,6,0.411,2.47,2.45
+Cleveland Guardians,Eli Morgan,Reliever,62,13,6,5,0.365,3.05,2.93
+Cleveland Guardians,Nick Sandlin,Reliever,35,9,4,4,0.466,3.77,3.89
+Minnesota Twins,Pablo López,Starter,133,26,18,12,0.408,3.99,3.96
+Minnesota Twins,Joe Ryan,Starter,96,24,7,10,0.404,3.04,3.01
+Minnesota Twins,Bailey Ober,Starter,96,24,6,12,0.425,3.96,3.97
+Minnesota Twins,Simeon Woods Richardson,Starter,79,18,10,7,0.419,4.1,4.1
+Minnesota Twins,Chris Paddack,Starter,82,15,11,6,0.372,3.28,3.17
+Minnesota Twins,David Festa,Starter,125,28,14,13,0.425,3.95,3.96
+Minnesota Twins,Jhoan Duran,Reliever,33,8,4,4,0.473,3.33,3.46
+Minnesota Twins,Griffin Jax,Reliever,55,11,5,4,0.34,2.67,2.52
+Minnesota Twins,Caleb Thielbar,Reliever,39,8,3,3,0.336,3.5,3.29
+Minnesota Twins,Brock Stewart,Reliever,55,15,4,7,0.455,3.61,3.7
+Minnesota Twins,Jorge Alcalá,Reliever,47,11,3,6,0.419,3.9,3.9
+Minnesota Twins,Jay Jackson,Reliever,41,7,5,3,0.351,3.88,3.69
+Detroit Tigers,Tarik Skubal,Starter,106,26,8,13,0.431,2.95,2.97
+Detroit Tigers,Jack Flaherty,Starter,78,17,10,9,0.454,3.24,3.32
+Detroit Tigers,Kenta Maeda,Starter,80,18,6,10,0.42,4.18,4.18
+Detroit Tigers,Matt Manning,Starter,105,20,15,11,0.433,4.18,4.22
+Detroit Tigers,Casey Mize,Starter,124,25,14,11,0.387,4.18,4.08
+Detroit Tigers,Reese Olson,Starter,122,26,16,10,0.403,6.35,6.27
+Detroit Tigers,Jason Foley,Reliever,64,14,7,7,0.427,3.61,3.63
+Detroit Tigers,Alex Lange,Reliever,31,7,3,3,0.4,3.92,3.86
+Detroit Tigers,Will Vest,Reliever,53,12,4,4,0.347,3.82,3.62
+Detroit Tigers,Shelby Miller,Reliever,62,13,7,6,0.405,3.66,3.62
+Detroit Tigers,Tyler Holton,Reliever,57,11,6,6,0.398,3.13,3.08
+Detroit Tigers,Andrew Chafin,Reliever,49,10,3,5,0.357,3.72,3.55
+Kansas City Royals,Cole Ragans,Starter,118,24,11,11,0.375,3.35,3.24
+Kansas City Royals,Seth Lugo,Starter,120,24,17,10,0.407,3.7,3.67
+Kansas City Royals,Brady Singer,Starter,98,23,9,12,0.44,3.53,3.58
+Kansas City Royals,Michael Wacha,Starter,88,16,11,7,0.372,3.9,3.77
+Kansas City Royals,Alec Marsh,Starter,135,31,14,15,0.431,5.35,5.39
+Kansas City Royals,Kris Bubic,Starter,120,23,10,12,0.367,2.64,2.54
+Kansas City Royals,James McArthur,Reliever,32,6,2,3,0.334,3.68,3.45
+Kansas City Royals,Will Smith,Reliever,62,11,5,5,0.326,2.41,2.25
+Kansas City Royals,Chris Stratton,Reliever,58,12,6,5,0.378,3.04,2.95
+Kansas City Royals,Nick Anderson,Reliever,52,12,3,5,0.363,3.9,3.74
+Kansas City Royals,Angel Zerpa,Reliever,32,8,3,4,0.456,3.34,3.43
+Kansas City Royals,Carlos Hernández,Reliever,64,13,8,7,0.431,2.71,2.73
+Chicago White Sox,Garrett Crochet,Starter,85,18,10,7,0.389,3.39,3.31
+Chicago White Sox,Erick Fedde,Starter,124,33,8,13,0.408,4.29,4.25
+Chicago White Sox,Drew Thorpe,Starter,92,24,7,13,0.471,3.38,3.5
+Chicago White Sox,Nick Nastrini,Starter,98,21,13,11,0.451,3.99,4.08
+Chicago White Sox,Jared Shuster,Starter,89,19,12,8,0.419,3.88,3.88
+Chicago White Sox,Jonathan Cannon,Starter,81,21,7,11,0.472,3.43,3.56
+Chicago White Sox,Michael Kopech (CWS),Reliever,38,8,3,4,0.384,4.48,4.36
+Chicago White Sox,Deivi García,Reliever,51,13,4,6,0.433,3.65,3.68
+Chicago White Sox,Jordan Leasure,Reliever,52,13,5,5,0.415,2.19,2.18
+Chicago White Sox,Dominic Leone,Reliever,43,10,5,4,0.419,3.4,3.4
+Chicago White Sox,Steven Wilson,Reliever,38,7,5,4,0.418,2.94,2.94
+Chicago White Sox,Bryan Shaw,Reliever,58,11,5,4,0.322,3.77,3.51
+Toronto Blue Jays,Kevin Gausman,Starter,87,20,11,9,0.443,3.33,3.38
+Toronto Blue Jays,José Berríos,Starter,103,24,12,13,0.469,3.78,3.91
+Toronto Blue Jays,Chris Bassitt,Starter,96,25,13,12,0.505,4.18,4.43
+Toronto Blue Jays,Yusei Kikuchi,Starter,81,19,8,9,0.43,4.41,4.44
+Toronto Blue Jays,Ricky Tiedemann,Starter,86,19,8,9,0.405,3.07,3.04
+Toronto Blue Jays,Alek Manoah,Starter,133,28,19,12,0.426,3.63,3.65
+Toronto Blue Jays,Jordan Romano,Reliever,55,10,7,4,0.364,3.04,2.92
+Toronto Blue Jays,Tim Mayza,Reliever,64,17,6,9,0.491,2.94,3.09
+Toronto Blue Jays,Erik Swanson,Reliever,51,12,4,4,0.361,4.27,4.09
+Toronto Blue Jays,Yimi García,Reliever,49,9,6,4,0.373,3.52,3.4
+Toronto Blue Jays,Nate Pearson,Reliever,63,15,6,6,0.405,2.61,2.58
+Toronto Blue Jays,Trevor Richards,Reliever,46,10,5,5,0.424,3.8,3.81
+Tampa Bay Rays,Shane McClanahan,Starter,94,19,12,10,0.429,5.23,5.26
+Tampa Bay Rays,Drew Rasmussen,Starter,113,31,7,12,0.413,4.52,4.5
+Tampa Bay Rays,Shane Baz,Starter,113,29,16,15,0.52,2.86,3.06
+Tampa Bay Rays,Taj Bradley,Starter,126,28,10,13,0.39,3.54,3.46
+Tampa Bay Rays,Nick Martinez,Starter,77,18,10,9,0.469,4.67,4.83
+Tampa Bay Rays,Mason Montgomery,Starter,139,38,19,19,0.533,3.39,3.66
+Tampa Bay Rays,Pete Fairbanks,Reliever,55,10,6,4,0.345,3.54,3.35
+Tampa Bay Rays,Jason Adam,Reliever,45,12,3,6,0.453,3.73,3.82
+Tampa Bay Rays,Colin Poche,Reliever,36,6,4,2,0.311,2.79,2.57
+Tampa Bay Rays,Garrett Cleavinger,Reliever,37,10,5,4,0.486,3.27,3.42
+Tampa Bay Rays,Kevin Kelly,Reliever,59,10,6,4,0.322,1.52,1.41
+Tampa Bay Rays,Shawn Armstrong,Reliever,46,11,4,5,0.417,2.74,2.73
+New York Mets,Kodai Senga,Starter,114,21,14,9,0.37,3.69,3.56
+New York Mets,Sean Manaea,Starter,124,27,14,14,0.435,3.04,3.07
+New York Mets,Luis Severino,Starter,73,18,6,9,0.44,4.91,4.98
+New York Mets,José Quintana,Starter,85,18,11,8,0.419,2.92,2.92
+New York Mets,Christian Scott,Starter,111,30,7,13,0.428,3.56,3.58
+New York Mets,Brandon Sproat,Starter,87,23,11,13,0.536,3.93,4.26
+New York Mets,Edwin Díaz,Reliever,58,14,5,6,0.41,4.09,4.06
+New York Mets,Adam Ottavino,Reliever,45,12,6,6,0.52,2.51,2.69
+New York Mets,Brooks Raley,Reliever,54,11,6,5,0.393,3.94,3.86
+New York Mets,Drew Smith,Reliever,32,7,3,3,0.387,3.31,3.23
+New York Mets,Phil Bickford,Reliever,47,9,3,3,0.294,2.76,2.51
+New York Mets,Reed Garrett,Reliever,44,9,4,4,0.37,3.55,3.42
+Washington Nationals,MacKenzie Gore,Starter,81,22,10,9,0.48,3.98,4.15
+Washington Nationals,Josiah Gray,Starter,139,38,19,19,0.533,3.46,3.74
+Washington Nationals,Jake Irvin,Starter,131,31,10,17,0.437,3.9,3.95
+Washington Nationals,Trevor Williams,Starter,128,28,17,12,0.427,3.6,3.62
+Washington Nationals,Mitchell Parker,Starter,126,25,10,13,0.373,3.92,3.79
+Washington Nationals,Cade Cavalli,Starter,75,19,9,8,0.457,4.28,4.39
+Washington Nationals,Kyle Finnegan,Reliever,38,10,5,4,0.474,4.17,4.33
+Washington Nationals,Hunter Harvey,Reliever,64,16,8,6,0.441,2.62,2.66
+Washington Nationals,Dylan Floro,Reliever,61,13,7,6,0.411,4.47,4.44
+Washington Nationals,Jordan Weems,Reliever,54,12,6,4,0.378,2.23,2.16
+Washington Nationals,Robert Garcia,Reliever,32,6,3,2,0.319,3.22,2.99
+Washington Nationals,Derek Law,Reliever,63,16,8,8,0.495,3.62,3.81
+Miami Marlins,Sandy Alcantara,Starter,74,18,6,8,0.414,4.03,4.01
+Miami Marlins,Eury Pérez,Starter,107,22,13,10,0.406,3.45,3.42
+Miami Marlins,Max Meyer,Starter,139,38,10,21,0.49,3.71,3.9
+Miami Marlins,Braxton Garrett,Starter,109,29,12,16,0.517,3.53,3.77
+Miami Marlins,Ryan Weathers,Starter,136,29,16,14,0.421,3.47,3.47
+Miami Marlins,Valente Bellozo,Starter,102,27,13,14,0.519,4.4,4.71
+Miami Marlins,Tanner Scott,Reliever,62,12,5,5,0.337,3.5,3.29
+Miami Marlins,Andrew Nardi,Reliever,54,14,4,7,0.45,2.92,2.98
+Miami Marlins,A.J. Puk,Reliever,36,9,5,4,0.481,3.79,3.96
+Miami Marlins,Declan Cronin,Reliever,60,15,4,6,0.392,3.47,3.4
+Miami Marlins,Bryan Hoeing,Reliever,59,15,4,7,0.424,3.75,3.76
+Miami Marlins,George Soriano,Reliever,42,9,2,4,0.34,3.65,3.44
+San Francisco Giants,Logan Webb (SF),Starter,115,24,13,10,0.39,3.31,3.24
+San Francisco Giants,Robbie Ray,Starter,129,23,17,9,0.361,3.49,3.34
+San Francisco Giants,Kyle Harrison,Starter,99,18,10,9,0.365,4.34,4.17
+San Francisco Giants,Tristan Beck,Starter,97,23,14,9,0.449,4.25,4.34
+San Francisco Giants,Keaton Winn,Starter,137,27,18,15,0.434,3.84,3.88
+San Francisco Giants,Hayden Birdsong,Starter,133,33,10,16,0.429,3.93,3.96
+San Francisco Giants,Camilo Doval,Reliever,30,5,2,2,0.283,4.0,3.61
+San Francisco Giants,Taylor Rogers,Reliever,43,11,6,5,0.493,2.97,3.12
+San Francisco Giants,Tyler Rogers,Reliever,64,15,6,6,0.398,3.6,3.54
+San Francisco Giants,Ryan Walker,Reliever,62,13,6,7,0.413,3.19,3.17
+San Francisco Giants,Luke Jackson,Reliever,52,11,4,6,0.398,3.18,3.13
+San Francisco Giants,Sean Hjelle,Reliever,46,8,6,3,0.35,3.9,3.71
+Arizona Diamondbacks,Zac Gallen,Starter,98,24,8,9,0.391,4.39,4.3
+Arizona Diamondbacks,Merrill Kelly,Starter,91,17,12,9,0.411,4.38,4.35
+Arizona Diamondbacks,Eduardo Rodriguez,Starter,125,27,18,12,0.439,4.7,4.76
+Arizona Diamondbacks,Brandon Pfaadt,Starter,128,35,16,16,0.504,3.86,4.09
+Arizona Diamondbacks,Ryne Nelson,Starter,70,14,8,7,0.404,4.29,4.24
+Arizona Diamondbacks,Jordan Montgomery (ARI),Starter,104,19,12,8,0.359,3.65,3.49
+Arizona Diamondbacks,Paul Sewald,Reliever,44,9,4,3,0.336,3.48,3.27
+Arizona Diamondbacks,Kevin Ginkel,Reliever,54,14,7,7,0.506,3.23,3.43
+Arizona Diamondbacks,Ryan Thompson,Reliever,36,8,2,3,0.336,3.35,3.15
+Arizona Diamondbacks,Joe Mantiply,Reliever,32,6,3,2,0.319,3.63,3.37
+Arizona Diamondbacks,Miguel Castro,Reliever,36,6,4,2,0.311,2.85,2.63
+Arizona Diamondbacks,Scott McGough,Reliever,51,12,4,6,0.42,4.45,4.45
+Colorado Rockies,German Márquez,Starter,80,22,6,10,0.455,3.2,3.28
+Colorado Rockies,Kyle Freeland,Starter,133,29,19,15,0.465,3.06,3.16
+Colorado Rockies,Austin Gomber,Starter,80,19,11,10,0.491,4.6,4.83
+Colorado Rockies,Cal Quantrill,Starter,77,19,10,8,0.458,4.36,4.48
+Colorado Rockies,Peter Lambert,Starter,115,22,12,11,0.382,4.26,4.14
+Colorado Rockies,Ryan Feltner,Starter,89,19,11,10,0.442,4.26,4.33
+Colorado Rockies,Justin Lawrence,Reliever,62,14,4,6,0.368,3.29,3.17
+Colorado Rockies,Jake Bird,Reliever,62,16,6,7,0.447,2.81,2.86
+Colorado Rockies,Victor Vodnik,Reliever,55,13,7,5,0.429,3.34,3.36
+Colorado Rockies,Tyler Kinley,Reliever,40,7,5,3,0.36,2.93,2.8
+Colorado Rockies,Jalen Beeks,Reliever,38,7,4,3,0.353,3.84,3.66
+Colorado Rockies,Nick Mears,Reliever,37,10,4,5,0.5,3.22,3.4
+Los Angeles Angels,Reid Detmers,Starter,76,18,8,9,0.449,3.31,3.38
+Los Angeles Angels,Tyler Anderson,Starter,91,20,11,9,0.423,3.64,3.65
+Los Angeles Angels,Griffin Canning,Starter,83,15,6,6,0.307,4.12,3.79
+Los Angeles Angels,Chase Silseth,Starter,82,18,9,8,0.41,3.48,3.46
+Los Angeles Angels,José Soriano,Starter,114,22,15,11,0.411,3.32,3.3
+Los Angeles Angels,Caden Dana,Starter,120,23,8,11,0.338,4.01,3.78
+Los Angeles Angels,Carlos Estévez,Reliever,61,14,6,5,0.382,3.43,3.34
+Los Angeles Angels,Ben Joyce,Reliever,64,12,6,5,0.342,3.02,2.85
+Los Angeles Angels,Matt Moore,Reliever,36,8,5,4,0.461,3.04,3.13
+Los Angeles Angels,Luis García,Reliever,53,11,5,5,0.381,3.43,3.33
+Los Angeles Angels,José Quijada,Reliever,49,11,5,5,0.412,2.5,2.49
+Los Angeles Angels,Adam Cimber,Reliever,63,14,8,7,0.449,2.53,2.58
+Oakland Athletics,JP Sears,Starter,75,18,11,8,0.475,3.38,3.51
+Oakland Athletics,Alex Wood,Starter,81,17,8,9,0.412,3.71,3.69
+Oakland Athletics,Ross Stripling,Starter,95,23,13,9,0.448,4.05,4.13
+Oakland Athletics,Paul Blackburn (OAK),Starter,113,24,12,11,0.401,4.81,4.74
+Oakland Athletics,Joe Boyle,Starter,107,24,9,13,0.423,4.41,4.42
+Oakland Athletics,Mitch Spence,Starter,83,19,8,9,0.419,3.75,3.75
+Oakland Athletics,Mason Miller (OAK),Reliever,35,8,3,3,0.374,3.29,3.18
+Oakland Athletics,Lucas Erceg,Reliever,64,15,6,8,0.445,2.75,2.8
+Oakland Athletics,Austin Adams,Reliever,52,11,4,4,0.34,3.29,3.1
+Oakland Athletics,Michael Kelly,Reliever,43,9,4,4,0.379,3.14,3.05
+Oakland Athletics,Scott Alexander,Reliever,30,6,3,3,0.39,3.48,3.41
+Oakland Athletics,Trevor Gott,Reliever,49,10,5,4,0.367,2.85,2.74
